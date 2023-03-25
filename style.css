@@ -1,0 +1,82 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.header-color{
+    color: orange;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-section{
+    width: 50%;
+    margin-left: 30px;
+}
+div img{
+    width: 70%;
+}
+p{
+    margin-bottom: 50px;
+}
+
+.button-design{
+    background-color: tomato;
+    text-decoration: none;
+    padding: 2% 5%;
+    color: white;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+.about-section{
+    background-color: rgb(236, 230, 232);
+} 
+.mid-banner {
+     background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position:top;
+}
+.img-design{
+    margin-top: 50px;
+}
+.para-section{
+    margin-top: 50px;
+    text-align: left;
+}
+.recipies{
+    text-align: center;
+}
+.para-two{
+    text-align: center;
+}
+.para-three{
+    text-align: center;
+}
+.recipie-item{
+    margin-left: 45px;
+    margin-right: 45px;
+    box-shadow: 10px 10px 10px gray;
+    width: 40%;
+    height: 600px;
+    border-radius: 10px;
+
+    
+}
+.img-recipie{
+    width: 90%;
+    margin-top: 15px;
+}
+.container{
+     background-color: whitesmoke;
+     margin: 80px;
+}
+.division{
+   margin: 0 auto;  
+}
+.final{
+    text-align: center;
+    background-color: black;
+}
